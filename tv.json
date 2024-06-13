@@ -1,6 +1,7 @@
 { 
     "urls": [
         { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+        { "url": "https://raw.liucn.cc/box/m.json", "name": "liucn" },
         { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz", "name": "王二小" },
         { "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
         { "url": "http://ok321.top/tv", "name": "OK屌炸天" },
